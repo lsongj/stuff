@@ -1,0 +1,1 @@
+start powershell.exe -NoLogo -WindowStyle Hidden -ExecutionPolicy Bypass -File c:\temp\randomizerFiles\Randomizer.ps1
